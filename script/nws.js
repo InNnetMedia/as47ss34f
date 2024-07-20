@@ -23,7 +23,7 @@ function someThing(step2){
                 console.log(link);
                 resolve(link);
                 // Resolve the promise with the link value
-                window.location = '../pages/news.html';
+                window.location = './pages/news.html';
             });
         });
         
