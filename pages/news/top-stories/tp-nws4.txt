@@ -1,5 +1,5 @@
 <h1>The first of Audi’s last new petrol cars is coming soon</h1>
-<img src="news/news-images copy/aviation/tp-nws3.jpg" alt="Story image">
+<img src="../pages/news/news-images copy/aviation/tp-nws3.jpg" alt="Story image">
 
 <h3>Overview</h3>
 <p>The A5 Sportback four-door adds more practicality and better fuel economy to the list of winning ingredients that go into making the A5 coupe. That makes it easy to recommend to new-car shoppers and a shoo-in for our 2024 Editors' Choice awards. The Sportback variant uses an identical powertrain setup to the A5: a turbocharged inline-four bolted to a seven-speed dual-clutch automatic transmission and Quattro all-wheel drive. The engine in the entry-level A5 Sportback 40 makes 201 horsepower, and the A5 Sportback 45 model gains 60 more ponies. The 45 especially is a fun driver that isn’t as aggressive as the 349-hp S5 Sportback, which we review separately. Even the base model comes with plush amenities like leather seating, a panoramic sunroof, and moody ambient lighting. Its enduring design is perhaps a touch too mild, and rivals such as the Mercedes-Benz C-class and the Genesis G70 have arguably more stylish interiors. The Audi makes up for this with excellent tech features like the available digital gauge display and navigation boasting Google Earth imagery.</p>
