@@ -9,11 +9,11 @@ console.log('Window location is '+window.location);
 autoImg.forEach((element,index) => {
     let path = element.src;
     
-    if(window.location == ' ' || window.location == ''){
-        element.src = `pages/news/news-images copy/aviation/tp-nws${index}.${imageFormat}`;
+    if(window.location == 'pages/d3e1sd.html ' || window.location == '/pages/d3e1sd.html' || window.location == '../pages/d3e1sd.html'){
+        element.src = `news/news-images copy/aviation/tp-nws${index}.${imageFormat}`;
         console.log(window.location)
     }else{
-        element.src = `news/news-images copy/aviation/tp-nws${index}.${imageFormat}`;
+         element.src = `pages/news/news-images copy/aviation/tp-nws${index}.${imageFormat}`;
         console.log(window.location)
     }
 })
