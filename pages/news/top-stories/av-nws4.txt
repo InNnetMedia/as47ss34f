@@ -1,5 +1,5 @@
 <h1>'The Boeing Curse': Production setbacks haunt aviation industry beyond 2024</h4>
-<img src="/pages/news/news-images copy/aviation/av-nws4.jpg" alt="Story image">
+<img src="pages/news/news-images copy/aviation/av-nws4.jpg" alt="Story image">
 
 <p>'The Boeing Curse' has engulfed the aviation industry in a supply-demand 'tug of war'. While demand for air travel is peaking in 2024, owing to holidays and recovery post-COVID, supply woes continue to disrupt delivery plans for Boeing and Airbus. This is causing restlessness among major airlines, who are paying more to keep 'dated' aircrafts working overtime.</p>
 
