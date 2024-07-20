@@ -1,5 +1,5 @@
 <h1>Criminals are after these 6 items in South Africa - and they're looking for cars that have them</h1>
-<img src="/pages/news/news-images copy/aviation/tp-nws0.jpg" alt="Story image">
+<img src="../pages/news/news-images copy/aviation/tp-nws0.jpg" alt="Story image">
 <p>Vehicle hijackings have surged in South Africa in 2024, deeply unsettling motorists nationwide. Cartrack, a leading car-tracking company, reports that the theft of car components now outpaces the theft of entire vehicles. This trend is driven by a high demand for affordable, readily available parts on the black market, as these parts are easier to conceal and harder to trace than whole cars.</p>
 <p>Motorists have adopted various safety measures, including installing multiple tracking devices, parking in well-lit areas, and practicing increased vigilance. However, as Siyakha Masiye, spokesperson at MiWay, points out, carjackers are becoming more sophisticated.</p>
 
