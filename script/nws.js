@@ -50,4 +50,4 @@ function hideHeader(){
     windowScroll = window.scrollY;
 }
 
-console.clear();
+
