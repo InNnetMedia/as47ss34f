@@ -8,8 +8,14 @@ let imageFormat = 'jpg' || 'jpeg' || 'png';
 console.log('Window location is '+window.location);
 autoImg.forEach((element,index) => {
     let path = element.src;
-    element.src = `pages/news/news-images copy/aviation/tp-nws${index}.${imageFormat}`;
-    if(window.path == )
+    
+    if(window.location == '../index.html'){
+        element.src = `pages/news/news-images copy/aviation/tp-nws${index}.${imageFormat}`;
+        console.log(window.location)
+    }else{
+        element.src = `news/news-images copy/aviation/tp-nws${index}.${imageFormat}`;
+        console.log(window.location)
+    }
 })
 
 
