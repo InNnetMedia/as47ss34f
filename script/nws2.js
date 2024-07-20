@@ -9,7 +9,7 @@ console.log('Window location is '+window.location);
 autoImg.forEach((element,index) => {
     let path = element.src;
     
-    if(window.location == '../index.html'){
+    if(window.location == 'index.html'){
         element.src = `pages/news/news-images copy/aviation/tp-nws${index}.${imageFormat}`;
         console.log(window.location)
     }else{
