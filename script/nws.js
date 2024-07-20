@@ -1,7 +1,7 @@
 
 let newsContainer = document.getElementsByName('n');
 function getData(cat){
-    fetch(`/pages/news/top-stories/${cat}.txt`)
+    fetch(`pages/news/top-stories/${cat}.txt`)
     .then(res => res.text())
     .then(data => {
         document.getElementById('news').innerHTML = data;
@@ -23,7 +23,7 @@ function someThing(step2){
                 console.log(link);
                 resolve(link);
                 // Resolve the promise with the link value
-                window.location = '../pages/news.html';
+                window.location = 'pages/news.html';
             });
         });
         
