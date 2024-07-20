@@ -1,5 +1,5 @@
 <h1>AA welcomes fuel price review, saying users are struggling</h1>
-<img src="/pages/news/news-images copy/aviation/tp-nws4.jpg" alt="Story image">
+<img src="../pages/news/news-images copy/aviation/tp-nws4.jpg" alt="Story image">
 
 <p>The Automobile Association (AA) has welcomed President Cyril Ramaphosa’s announcement of a fuel price review at his opening of parliament address on Thursday.</p>
 
