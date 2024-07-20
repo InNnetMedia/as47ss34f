@@ -1,0 +1,27 @@
+<h1>US to develop new aviation munition for Ukraine</h4>
+<img src="/pages/news/news-images copy/aviation/av-nws5.jpg" alt="Story image">
+
+<p>The US Air Force will develop a new class of precision air-to-ground munitions for Ukraine, according to Aviation Week.</p>
+
+<p>In January, the US Air Force released its first request for proposals for an extended-range attack munition (ERAM). The goal is to create an inexpensive, rapidly developed air-launched munition that can fly to a distance of about 463 km. Sixteen companies, whose names are not disclosed, expressed interest.</p>
+
+<p>In July of this year, it became known that ERAM was intended for use in Ukraine's fight against Russia.</p>
+
+<p>“This munition is pivotal for accelerating Ukraine’s capability to meet warfighter needs efficiently and provides an affordable mass weapon to be produced at scale,” the tender request says.</p>
+
+<p>It is known that the ERAM procurement will be carried out in stages, with the aim of prototyping and adapting a commercial, autonomous, modular, open architecture vehicle “that can deliver affordable long-range effects.”
+
+</p>
+
+<p>Minimum requirements for ERAM:</p>
+
+<p>・must be a 500 lb (about 227 kg) munition;</p>
+
+<p>・equipped with a warhead capable of engaging open targets, including armored targets, with fragmentation and high-explosive effects.</p>
+
+<p>The minimum speed of the ERAM should be Mach 0.6, and the range should be over 463 km. It is not specified whether the munition must be powered. It is known that it should be able to navigate without GPS and land at least half of the ammunition within a radius of 10 meters from the aim point.</p>
+
+<p>According to Aviation Week, ERAM is one of many efforts by the Pentagon to develop new, low-cost air-launched munitions. Earlier this year, the Navy also released requirements for a multi-purpose affordable effective munition - a relatively cheap munition weighing about 34 kg, which is small enough for the F-35C to carry four such munitions in its weapons bay.</p>
+
+<p>Earlier, RBC-Ukraine reported that Ukrainian company Ukroboronprom signed an agreement with the American company Northrop Grumman to create a new production facility for medium-caliber ammunition in accordance with NATO standards.</p>
+

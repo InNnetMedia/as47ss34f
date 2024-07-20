@@ -1,0 +1,201 @@
+.body{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    margin-top:10px;
+    width:100%;
+}
+.body p{
+    text-align: center;
+    font-weight:bold;
+}
+.results-container{
+    display:flex;
+    flex-direction:column;
+    width:80%;
+    background-color:white;
+}
+.m-estimates,
+.c-estimates{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    row-gap:1rem;
+    min-width: 160px;
+    column-gap:0.5rem;
+    text-align: center;
+}
+.m-estimates div,
+.c-estimates div{
+    background-color:rgba(95, 95, 95, 0.342);
+}
+
+.results-container div{
+    padding:8px;
+}
+.results-container span{
+    border-top:1px solid rgb(0, 194, 219);
+    width:100%;
+}
+
+
+
+/*
+    **********Map Section**********
+*/
+.map-container{
+    display:none;
+}
+.map-containerOn{
+    display:block;
+    width:90%;
+    height:300px;
+    background-color:white;
+    margin-top:165px;
+    margin-bottom:20px;
+
+}
+
+
+
+
+/*
+    ********Fuel Pump Section*******
+*/
+
+.grid-c-container{
+    position:absolute;
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+}
+
+.refueling-station-sim0{
+    display:flex;
+    justify-content: space-between;
+    width:80%;
+    align-items:center;
+    margin-bottom:28px;
+}
+.ad3 img,
+.ad4 img{
+    width:100%;
+}
+.refueling-station-sim{
+    display:flex;
+    margin-top:50px;
+    justify-content: center;
+}
+.ad4{
+    margin-bottom:20px;
+}
+
+@media (max-width:1115px){
+    .refueling-station-sim0{
+        flex-direction:column;
+    }
+    .ad-container00{
+        display:none;
+    }
+}
+#fuel-pump{
+    width:100%;
+    max-width: 300px;
+}
+.fuel-pump-container{
+    display:flex;
+    justify-content: end;
+    align-self: center;
+    position:relative;
+    margin-right:20px;
+}
+
+.fuel-pump-info{
+    display:flex;
+    flex-direction:column;
+    align-items: start;
+    justify-content: center;
+}
+.fuel-pump-info span{
+    background-color:rgb(65, 65, 65);
+    color:white;
+    padding:10px;
+    margin-left:18px;
+    border-radius:5px;
+    font-size: 40px;
+    margin-bottom:10px;
+    width:200px;
+    box-shadow: inset 2px 3px 6px rgba(0, 0, 0, 0.911);
+}
+#btnFill,
+#btnReset{
+    position:relative;
+    top:49px;
+    width:100%;
+    cursor:pointer;
+    background-color:rgba(143, 143, 143, 1);
+    color:white;
+    border:none;
+    padding-top:4px;
+    padding-bottom:4px;
+    border:1px solid rgba(0, 0, 0, 0.511)
+}
+
+.fuel-type-pumpDisplay{
+    text-align:center;
+    width:80px;
+    position:relative;
+    top:-22px;
+    left:-40%;
+    background-color:rgb(197, 0, 0);
+    color:white;
+    padding:5px;
+    cursor:pointer;
+    border-radius:4px;
+    border:none;
+}
+.ad-container00{
+    
+}/*
+.ad-container00 img{
+    width:60%;
+    height: 60%;
+}*/
+@media (max-width:380px){
+    .fuel-type-pumpDisplay{
+        top:-12px;
+    }
+}
+
+
+@media (max-width: 669px){
+    .refueling-station-sim{
+        flex-direction:column;
+        align-self: center;
+    }
+    .fuel-pump-info,
+    .fuel-pump-container{
+        align-self: center;
+        align-items: center;
+    }
+    .fuel-pump-info{
+        margin-top:20px;
+    }
+    .fuel-pump-info span{
+        font-size:20px;
+    }
+}
+@media (max-width: 500px){
+    .results-container{
+        width:100%;
+    }
+}
+@media (min-width:475px){
+    .m-estimates div,
+    .c-estimates div{
+        padding-top:13px;
+        padding-bottom:13px;
+    }
+}

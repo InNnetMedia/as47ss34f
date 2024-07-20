@@ -1,0 +1,42 @@
+<h1>Some home appliances can use as much energy as electric vehicles</h1>
+<img src="/pages/news/news-images copy/aviation/tp-nws6.jpg" alt="Story image">
+
+<p>The most popular electric vehicles can use about as much electricity as some home appliances. Here’s how appliances and EVs compare.</p>
+
+<p>Some home appliances use a similar amount of electricity to electric vehicles, but it depends on the appliance and vehicle. Some use less, and some use more. </p>
+
+<p>The electricity requirements of both electric cars and home appliances vary based on the efficiency of the models you own, as well as how often you use them. 
+
+We’ll show you what we mean by comparing several electric vehicles to several different appliances, including multiple models of the same type of appliance, based on how much an average home uses them in a year.</p>
+<img src="/pages/news/news-images copy/aviation/tp-nws6.1.jpg" alt="Story image">
+<p>According to fueleconomy.gov, which is run by the U.S. Department of Energy and the Environmental Protection Agency (EPA), new electric cars use between 0.24 kWh (kilowatt hours, a measure of electricity consumption) per mile and 0.53 kWh per mile. </p>
+
+<p>The Federal Highway Administration said the average driver traveled 14,263 miles in 2019. So if you were to drive as much as the average person, and you fully charge your car at home throughout the year, you’d use between 3,423 kWh and 7,559 kWh to charge a new electric vehicle.
+
+</p>
+
+<p>Tesla Model 3: 3,566 kWh at 0.25 kWh per mile<br>
+Chevrolet Bolt: 3,994 kWh at 0.28 kWh per mile<br>
+Tesla Model Y: 3,994 kWh at 0.28 kWh per mile<br>
+Nissan Leaf: 4,279 kWh at 0.30 kWh per mile<br>
+Ford Mustang Mach-E: 5,135 kWh at 0.36 kWh per mile<br>
+Ford F-150 Lightning: 7,274 kWh at 0.51 kWh per mile</p>
+
+<p>The two most electricity-demanding appliances in the average American household are water heaters and electric furnaces, according to the U.S. Energy Information Administration’s 2015 Residential Energy Consumption Survey. The average home uses a little more than 3,000 kWh of electricity each year on heating the air, and another 3,000 kWh on heating water, meaning an electric car would require at least a little more electricity than it takes to run each of these appliances in the average U.S. home.</p>
+
+<p>But one reason why this claim needs context is because not all appliances are created equal. There are some appliances that use more electricity than many electric vehicles. 
+
+EnergySage, a renewable energy marketplace funded by the U.S. Department of Energy, says that the most common electric furnace uses about 3,163 kWh of electricity in a year. But EnergySage also notes there are electric furnaces powerful enough to consume 4,745 kWh of electricity in a year.</p>
+
+<p>When it comes to water heaters, the average model typically requires a little less electricity than the most common electric vehicles, but some water heaters require much less electricity. One Rheem water heater uses about 3,531 kWh of electricity in a year, according to the product’s EnergyGuide tag, a label required on many appliances by the federal government. A high-efficiency Rheem water heater, on the other hand, uses 1,219 kWh annually, according to its EnergyGuide tag.</p>
+
+<p>Air conditioning units also vary by size. For example, a typical 1.5 ton central A/C unit, the smallest size available for most product lines, uses about 1,485 kWh over the course of a year. However, a 5 ton A/C unit, the largest size in most residential product lines, typically uses 4,950 kWh of electricity in a year, according to PickHVAC, an online buying guide for heating and cooling systems.
+
+Many other appliances use far less electricity.  New fridges use a few hundred kWh a year, while 25-year-old refrigerators use 1,031 kWh of electricity annually, according to Sense, a company that makes home energy consumption monitors.</p>
+
+<p>. EnergySage says the typical washing machine uses no more than 220 kWh each year, and the average dishwasher will probably use about 300 kWh or less each year</p>
+
+<p></p>
+
+<p></p>
+
