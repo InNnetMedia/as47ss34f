@@ -1,5 +1,5 @@
 <h1>China's aviation sector experiences significant growth in H1</h1>
-<img src="/pages/news/news-images copy/aviation/av-nws6.jpg" alt="Story image">
+<img src="news-images copy/aviation/av-nws6.jpg" alt="Story image">
 
 <p> China's Aviation sector experienced significant growth in the first half of this year, with nearly 350 million passenger trips recorded, representing a remarkable surge of 23.5 percent compared to the same period last year.</p>
 
