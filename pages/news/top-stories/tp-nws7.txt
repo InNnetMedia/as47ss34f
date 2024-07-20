@@ -1,5 +1,5 @@
 <h1>Some home appliances can use as much energy as electric vehicles</h1>
-<img src="/pages/news/news-images copy/aviation/tp-nws6.jpg" alt="Story image">
+<img src="../pages/news/news-images copy/aviation/tp-nws6.jpg" alt="Story image">
 
 <p>The most popular electric vehicles can use about as much electricity as some home appliances. Here’s how appliances and EVs compare.</p>
 
