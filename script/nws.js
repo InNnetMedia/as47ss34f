@@ -1,7 +1,7 @@
 
 let newsContainer = document.getElementsByName('n');
 function getData(cat){
-    fetch(`pages/news/top-stories/${cat}.txt`)
+    fetch(`../pages/news/top-stories/${cat}.txt`)
     .then(res => res.text())
     .then(data => {
         document.getElementById('news').innerHTML = data;
