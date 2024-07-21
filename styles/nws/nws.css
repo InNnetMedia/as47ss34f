@@ -109,6 +109,10 @@ news-section{
     border-radius:5px;
     margin-top:15px;
 }
+.news-big-story img{
+    display:flex;
+    max-height:235px;
+}
 
 .news-big-story-content{
     margin-left:20px;
