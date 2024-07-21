@@ -30,16 +30,18 @@ Internal data from MiWay reveals that the most frequently stolen accessories inc
 
 <p>To safeguard against seasoned thieves, motorists can take several precautions. Equipping wheels with locknuts, reinforcing battery brackets, parking in busy and well-lit areas, and double-checking vehicle locks are essential steps. Keeping valuables out of sight, avoiding high-risk areas, steering clear of unfamiliar Wi-Fi networks from the car, and maintaining vigilance can also help. Installing a GPS tracker is advisable, ensuring the vehicle can be located if stolen or hijacked.</p>
 
-<script type="text/javascript">
-	atOptions = {
-		'key' : '6fa233f8cbea16122c48e6a473a66037',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.topcreativeformat.com/6fa233f8cbea16122c48e6a473a66037/invoke.js"></script>
+<div class="ad4" style="display: flex; justify-content: center; margin-top:20px;">
+                <script type="text/javascript">
+                atOptions = {
+                    'key' : '6fa233f8cbea16122c48e6a473a66037',
+                    'format' : 'iframe',
+                    'height' : 90,
+                    'width' : 728,
+                    'params' : {}
+                };
+            </script>
+            <script type="text/javascript" src="//www.topcreativeformat.com/6fa233f8cbea16122c48e6a473a66037/invoke.js"></script>
+</div> 
 
 <script async="async" data-cfasync="false" src="//pl23826599.highrevenuenetwork.com/819a981e3f6fc0035ee139834673b232/invoke.js"></script>
     <div id="container-819a981e3f6fc0035ee139834673b232" style="z-index:0;"></div>
