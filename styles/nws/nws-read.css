@@ -28,9 +28,6 @@ p{
     grid-template-columns: 80% 20%;
     align-self:center;
     width:80%;
-    position:static;
-    right:50px;
-    bottom:0px;
 }
 .ad-right-section{
     display:flex;
