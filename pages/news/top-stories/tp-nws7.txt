@@ -8,7 +8,7 @@
 <p>The electricity requirements of both electric cars and home appliances vary based on the efficiency of the models you own, as well as how often you use them. 
 
 We’ll show you what we mean by comparing several electric vehicles to several different appliances, including multiple models of the same type of appliance, based on how much an average home uses them in a year.</p>
-<img src="/pages/news/news-images copy/aviation/tp-nws6.1.jpg" alt="Story image">
+<img src="../pages/news/news-images copy/aviation/tp-nws6.1.jpg" alt="Story image">
 <p>According to fueleconomy.gov, which is run by the U.S. Department of Energy and the Environmental Protection Agency (EPA), new electric cars use between 0.24 kWh (kilowatt hours, a measure of electricity consumption) per mile and 0.53 kWh per mile. </p>
 
 <p>The Federal Highway Administration said the average driver traveled 14,263 miles in 2019. So if you were to drive as much as the average person, and you fully charge your car at home throughout the year, you’d use between 3,423 kWh and 7,559 kWh to charge a new electric vehicle.
@@ -40,3 +40,6 @@ Many other appliances use far less electricity.  New fridges use a few hundred k
 
 <p></p>
 
+<script async="async" data-cfasync="false" src="//pl23826599.highrevenuenetwork.com/819a981e3f6fc0035ee139834673b232/invoke.js"></script>
+    <div id="container-819a981e3f6fc0035ee139834673b232" style="z-index:0;"></div>
+    <script type="text/javascript" src="//identicaldrench.com/7b8644849ba33b7b35912797996f1bf9/invoke.js"></script>
