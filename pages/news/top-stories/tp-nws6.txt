@@ -8,7 +8,16 @@
 <p>A post by @nkosazana_carlady shows her posed in front of a stunning VW Taigo at the dealership with a caption and audio that revealed a reality many women face after committing to buy a car that their boyfriends convinced them to choose even though they weren’t financially ready for it.</p>
 
 <p></p>
-
+<script type="text/javascript">
+	atOptions = {
+		'key' : '6fa233f8cbea16122c48e6a473a66037',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.topcreativeformat.com/6fa233f8cbea16122c48e6a473a66037/invoke.js"></script>
 <p></p>
 
 <p></p>
