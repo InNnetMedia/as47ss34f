@@ -1,272 +1,40 @@
-<h1>The expected petrol and diesel prices for August 2024 – UPDATED</h1>
-<img src="../pages/news/news-images copy/aviation/tp-nws1.jpg" alt="Story image">
+<h1>More Roadblocks Expected for SA Motorists</h1>
 
-<p>The South African Reserve Bank (SARB) is expected to cut interest rates by up to 150 basis points by mid-year 2025, which could result in the average car owner with vehicle asset finance saving R308 per month on their repayments.</p>
+<p>The Department of Transport is enhancing its efforts to address the lawlessness on South Africa's roads.</p>
 
-<p>The South African Reserve Bank’s (SARB’s) Monetary Policy Committee decided to keep rates unchanged in May, maintaining the repo rate at 8.25% and the prime lending rate at 11.75%.</p>
+<img src="../pages/news/news-images copy/aviation/tp-nws0.jpg" alt="Story image">
 
-<p>Economists anticipate that the SARB will maintain the rates at 8.25% when the Monetary Policy Committee convenes in July.</p>
+<p>South African motorists are familiar with the occasional roadblock, particularly those residing in Gauteng.</p>
 
-<p>They are hopeful that interest rate cuts will be postponed until the September meeting.</p>
+<p>With the general elections concluded and new measures starting to take effect, various departments are intensifying their efforts to tackle significant issues in the country.</p>
 
+<p>According to BusinessTech, in 2014, an average of 40 people died daily on the roads, with around 184 sustaining serious injuries.</p>
 
-<p>The South African Reserve Bank (SARB) is expected to cut interest rates by up to 150 basis points by mid-year 2025, which could result in the average car owner with vehicle asset finance saving R308 per month on their repayments.</p>
+<p>Despite an increase in population and vehicles on the roads by 2024, the figures have improved to 34 deaths and 157 injuries daily.</p>
 
-<p>The South African Reserve Bank’s (SARB’s) Monetary Policy Committee decided to keep rates unchanged in May, maintaining the repo rate at 8.25% and the prime lending rate at 11.75%.</p>
+<p>However, there is always more to be done to ensure the safety of South African road users.</p>
 
-<p>Economists anticipate that the SARB will maintain the rates at 8.25% when the Monetary Policy Committee convenes in July.</p>
+<p>Nearly 10% of registered vehicles in South Africa are deemed not roadworthy, which increases the risk of accidents and fatalities.</p>
 
-<p>They are hopeful that interest rate cuts will be postponed until the September meeting.</p>
+<p>The Department of Transport (DoT) has announced plans to implement a new strategy, which will involve traffic police working around the clock in shifts by March 2025.</p>
 
-<style>
-        table {
-            width: 50%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: center;
-        }
-        th {
-            background-color: white;
-        }
-    </style>
-</head>
-<body>
+<p>The Automobile Association of South Africa (AA) has noted that while the decline in road fatalities is encouraging, significant work remains to be done.</p>
 
+<p>The government appears to be making systematic changes to address these issues.</p>
 
+<p>“Human factors accounted for 80% of all deaths during the festive period, but this human factor—or driver behavior—will only change over time. Our ongoing call is for the government to ensure more law enforcers are deployed to patrol our roads. Additionally, more education and awareness campaigns should be conducted throughout the year to prioritize road safety. The dire road safety situation in South Africa is a national crisis that costs the economy around R200 billion annually, according to the Road Traffic Management Corporation (RTMC). Improving road safety will benefit all South Africans, and it is now up to the government to take decisive action to improve the situation,” said the Automobile Association of South Africa (AA).</p>
 
-<table>
-    <tr>
-        <th>Month</th>
-        <th>Move</th>
-        <th>Rate</th>
-    </tr>
-    <tr>
-        <td>May 2024</td>
-        <td>Hold</td>
-        <td>8.25%</td>
-    </tr>
-    <tr>
-        <td>July 2024</td>
-        <td>Hold</td>
-        <td>8.25%</td>
-    </tr>
-    <tr>
-        <td>September 2024</td>
-        <td>Hold</td>
-        <td>8.25%</td>
-    </tr>
-    <tr>
-        <td>November 2024</td>
-        <td>-25 bps</td>
-        <td>8.00%</td>
-    </tr>
-    <tr>
-        <td>January 2025</td>
-        <td>-50 bps</td>
-        <td>7.50%</td>
-    </tr>
-    <tr>
-        <td>March 2025</td>
-        <td>-25 bps</td>
-        <td>7.25%</td>
-    </tr>
-    <tr>
-        <td>May 2025</td>
-        <td>-25 bps</td>
-        <td>7.00%</td>
-    </tr>
-    <tr>
-        <td>July 2025</td>
-        <td>-25 bps</td>
-        <td>6.75%</td>
-    </tr>
-    <tr>
-        <td>September 2025</td>
-        <td>Hold</td>
-        <td>6.75%</td>
-    </tr>
-</table>
+<div>
+    <img src="../pages/news/news-images copy/aviation/tp-nws7.jpg" alt="Story image">
+    <span style="font-size:small">Sponsored</span>
+</div>
 
-<p>This maximum forecast of 150bps will bring much-needed relief for car owners with loans in South Africa, and it’s expected to commence as soon as November.</p>
+<p>The Deputy Minister of Transport, Mkhuleko Hlengwa, has committed to removing obstacles that hinder the implementation of visible traffic policing to address lawlessness during his tenure.</p>
 
-<p>Interest rates have remained unchanged since the last policy rate decision a year ago, adding to the financial strain on households that have also faced other cost increases, such as electricity, fuel, and property rates.</p>
+<p>Currently, only the Western Cape and the National Traffic Police operate on a 24/7 shift system.</p>
 
-<p>According to WesBank, the average amount for a new vehicle financed through their institution was approximately R410,000.</p>
-<p>This means that individuals who purchased a car at this value and secured a loan at current rates will pay R270 less per month on their repayments at a forecasted prime rate of 10.25% by July 2025.</p>
+<p>During his inaugural address, Hlengwa stated that the administration will expedite the resolution of issues delaying the nationwide implementation of this system to provide visible traffic law enforcement around the clock.</p>
 
-<p>However, this saving diminishes as the price of the car increases.</p>
+<p>He also assured that his department would oversee and ensure the introduction of the new system by 31 March 2025.</p>
 
-<p>For instance, those who bought an R500,000 car will pay R375 less per month, while those who purchased a R1 million car will enjoy a more substantial reduction of R750 per month.</p>
-
-<p>The table below highlights how much you’ll save on your bond every month if the forecasted 150 bps interest rate cuts come into effect next year.</p>
-
-
-<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
-    <thead>
-        <tr>
-            <th>Value of the car</th>
-            <th>Current rate (11.75%)</th>
-            <th>Expected by July 2025 (10.25%)</th>
-            <th>Change</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>R175 000</td>
-            <td>R3 966</td>
-            <td>R3 835</td>
-            <td>-R131</td>
-        </tr>
-        <tr>
-            <td>R200 000</td>
-            <td>R4 519</td>
-            <td>R4 369</td>
-            <td>-R150</td>
-        </tr>
-        <tr>
-            <td>R225 000</td>
-            <td>R5 072</td>
-            <td>R4 903</td>
-            <td>-R169</td>
-        </tr>
-        <tr>
-            <td>R250 000</td>
-            <td>R5 625</td>
-            <td>R5 437</td>
-            <td>-R188</td>
-        </tr>
-        <tr>
-            <td>R275 000</td>
-            <td>R6 178</td>
-            <td>R5 971</td>
-            <td>-R207</td>
-        </tr>
-        <tr>
-            <td>R300 000</td>
-            <td>R6 731</td>
-            <td>R6 506</td>
-            <td>-R225</td>
-        </tr>
-        <tr>
-            <td>R325 000</td>
-            <td>R7 284</td>
-            <td>R7 040</td>
-            <td>-R244</td>
-        </tr>
-        <tr>
-            <td>R350 000</td>
-            <td>R7 837</td>
-            <td>R7 574</td>
-            <td>-R263</td>
-        </tr>
-        <tr>
-            <td>R375 000</td>
-            <td>R8 390</td>
-            <td>R8 108</td>
-            <td>-R282</td>
-        </tr>
-        <tr>
-            <td>R400 000</td>
-            <td>R8 943</td>
-            <td>R8 643</td>
-            <td>-R300</td>
-        </tr>
-        <tr>
-            <td>R410 000</td>
-            <td>R9 164</td>
-            <td>R8 856</td>
-            <td>-R308</td>
-        </tr>
-        <tr>
-            <td>R450 000</td>
-            <td>R10 049</td>
-            <td>R9 711</td>
-            <td>-R338</td>
-        </tr>
-        <tr>
-            <td>R500 000</td>
-            <td>R11 155</td>
-            <td>R10 780</td>
-            <td>-R375</td>
-        </tr>
-        <tr>
-            <td>R550 000</td>
-            <td>R12 261</td>
-            <td>R11 848</td>
-            <td>-R413</td>
-        </tr>
-        <tr>
-            <td>R600 000</td>
-            <td>R13 367</td>
-            <td>R12 917</td>
-            <td>-R450</td>
-        </tr>
-        <tr>
-            <td>R650 000</td>
-            <td>R14 473</td>
-            <td>R13 985</td>
-            <td>-R488</td>
-        </tr>
-        <tr>
-            <td>R700 000</td>
-            <td>R15 579</td>
-            <td>R15 054</td>
-            <td>-R525</td>
-        </tr>
-        <tr>
-            <td>R750 000</td>
-            <td>R16 684</td>
-            <td>R16 122</td>
-            <td>-R562</td>
-        </tr>
-        <tr>
-            <td>R800 000</td>
-            <td>R17 790</td>
-            <td>R17 191</td>
-            <td>-R599</td>
-        </tr>
-        <tr>
-            <td>R850 000</td>
-            <td>R18 896</td>
-            <td>R18 259</td>
-            <td>-R637</td>
-        </tr>
-        <tr>
-            <td>R900 000</td>
-            <td>R20 002</td>
-            <td>R19 328</td>
-            <td>-R674</td>
-        </tr>
-        <tr>
-            <td>R950 000</td>
-            <td>R21 108</td>
-            <td>R20 396</td>
-            <td>-R712</td>
-        </tr>
-        <tr>
-            <td>R1 000 000</td>
-            <td>R22 214</td>
-            <td>R21 465</td>
-            <td>-R749</td>
-        </tr>
-    </tbody>
-</table>
-
-<p>Several auto motor stakeholders have noted that decisions to hold interest rates are disappointing and that the new vehicle market needs a rate cut.</p>
-
-<p>Year-to-date, new vehicle sales have declined 7.4% to 246,052 units, leaving the possibility that the market will fail to reach 500,000 units this year.</p>
-
-<p>“Vehicle price inflation, high interest rates, and the general rising costs of living are all impacting the ability of new car buyers to enter or stay in the market,” said Lebo Gaoaketse, Head of Marketing and Communication at WesBank.</p>
-
-<p>“Until there is some relief in interest rates, greater incentive deals from manufacturers, or a significant shift in general inflation or earnings, the new vehicle market will continue to remain under pressure,” he added.</p>
-
-<p>In the automotive industry, the impact of lower interest rates cannot be overstated.</p>
-
-<p>This financial shift would encourage consumers to make significant purchases, ultimately driving up sales and providing crucial support to businesses throughout the supply chain.</p>
-
-<p>The implications wouldn’t just stop at the property and car sales sectors. A noteworthy reduction in interest rates would have extensive positive ramifications for the broader economy.</p>
-
-<p>The resulting surge in consumer spending would lead to a noticeable uptick in demand, thereby triggering heightened production levels, facilitating job creation, and fostering a more robust economic outlook.</p>
+<p>Road fatalities have decreased from 12,554 in 2020 to 11,883 in 2023.</p>

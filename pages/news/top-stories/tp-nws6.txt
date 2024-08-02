@@ -1,32 +1,20 @@
-<h1>A South African car saleswoman on TikTok shared an important post about buying a car</h1>
+<h1>The debate between 93 unleaded and 95 unleaded and which is cheaper</h1>
+
+<ul>
+    <li>The Automobile Association of South Africa suggests that motorists with smaller engines should opt for 93 Unleaded petrol.</li>
+    <li>This recommendation challenges the common misconception that 95 Unleaded petrol is more fuel-efficient and cost-effective.</li>
+    <li>Opinions among South Africans vary, with some supporting the recommendation while others are not convinced.</li>
+</ul>
 
 
-<p>The video resonated with many women who shared stories of being pressured into buying cars they couldn't afford</p>
 <img src="../pages/news/news-images copy/aviation/tp-nws5.jpg" alt="Story image">
-<p>A South African car sales lady posted TikTok videos poking fun at women who purchase cars based on their boyfriends' recommendations or preferences and not necessarily what they can afford.</p>
 
-<p>A post by @nkosazana_carlady shows her posed in front of a stunning VW Taigo at the dealership with a caption and audio that revealed a reality many women face after committing to buy a car that their boyfriends convinced them to choose even though they weren’t financially ready for it.</p>
 
-<p></p>
-<script type="text/javascript">
-	atOptions = {
-		'key' : '6fa233f8cbea16122c48e6a473a66037',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.topcreativeformat.com/6fa233f8cbea16122c48e6a473a66037/invoke.js"></script>
-<p></p>
+<p>According to car enthusiast, motorists can save much money using 93-unleaded petrol instead of 95. The Automobile Association of South Africa recommended that those without super or turbochargers rely more on 93-unleaded petrol.</p>
 
-<p></p>
+<div>
+    <img src="../pages/news/news-images copy/aviation/tp-nws7.jpg" alt="Story image">
+    <span style="font-size:small">Sponsored</span>
+</div>
 
-<p></p>
-
-<p></p>
-
-<p></p>
-<script async="async" data-cfasync="false" src="//pl23826599.highrevenuenetwork.com/819a981e3f6fc0035ee139834673b232/invoke.js"></script>
-    <div id="container-819a981e3f6fc0035ee139834673b232" style="z-index:0;"></div>
-    <script type="text/javascript" src="//identicaldrench.com/7b8644849ba33b7b35912797996f1bf9/invoke.js"></script>
+<p>Suzuki South Africa also reportedly explained that cars with smaller engines would not see any difference in fuel efficiency or performance compared to vehicles with larger engines. Even those with larger engines could use 93-unleaded petrol to save money.</p>

@@ -1,44 +1,59 @@
-<h1>The expected petrol and diesel prices for August 2024 – UPDATED</h1>
+<h1>Petrol price disaster in South Africa</h1>
+
 <img src="../pages/news/news-images copy/aviation/tp-nws0.jpg" alt="Story image">
 
+<p>Despite recent reprieves, South Africa’s fuel taxes have increased significantly over the past 16 years, making fuel increasingly expensive for motorists in the country.</p>
 
-<p>A look at the latest price projections for South Africa’s motorists for August 2024 shows some mixed news for petrol and diesel vehicle owners.</p>
-<p>Motorists have adopted various safety measures, including installing multiple tracking devices, parking in well-lit areas, and practicing increased vigilance. However, as Siyakha Masiye, spokesperson at MiWay, points out, carjackers are becoming more sophisticated.</p>
+<p>MyBroadband compared the crude oil price per litre to the inland unleaded 95 price per litre in South Africa from January 2008 to July 2024.</p>
 
-<p>While petrol is forecast to see a slight decrease, diesel may well become more expensive at the pumps next month.</P>
+<p>This revealed that while South Africa’s fuel prices were still correlated with oil, they have diverged significantly, largely due to tax and margin increases.</p>
 
-<p>As reported by The South African website, there was welcome news last week following a price decrease for both petrol and diesel.</p>
+<p>Over this period, South Africa’s fuel price addons have skyrocketed, with the total tax per litre growing from R1.74 per litre in 2008/09 to R6.04 per litre in 2024/25, representing more than three-fold growth.</p>
 
-<p>Below, the latest projections as received by The South African website from the CEF, effective Thursday, 18 July.</p>
+<p>This includes just the Road Accident Fund (RAF) levy and the general fuel levy (GFL).</p>
 
-<p>If the market conditions were to remain consistent for the remainder of the month – an unlikely scenario with the rand/dollar exchange rate ever fluctuating and the oil price changing – a decrease of 3 cents is expected for petrol 93 octane motorists and a decrease of 7 cents for 95 users.</p>
+<p>According to data from the Organisation Undoing Tax Abuse, South Africa’s RAF Levy and GFL were R0.47 and R1.27, respectively, in 2008/09. However, they have since grown to R2.18 and R3.86.</p>
 
-<p>Meanwhile, diesel motorists would see something between a 7 cents per litre decrease and a 6 cents per litre increase.</p>
+<p>The South African government has held back on increasing the two fuel price addons in recent years.</p>
 
-<p>Finally, illuminating paraffin is expected to decrease by 1 cent.</p>
+<p>During his 2024 budget speech, finance minister Enoch Godongwana said the government would also hold off on increasing these taxes in 2024/25.</p>
+
+<p>“We are mindful of the already high cost of living and the impact fuel prices have on food and transport costs,” said Godongwana.</p>
+<div>
+    <img src="../pages/news/news-images copy/aviation/tp-nws7.jpg" alt="Story image">
+    <span style="font-size:small">Sponsored</span>
+</div>
+<p>“As in the 2022 and 2023 Budgets, government again proposes no changes to the general fuel levy or the Road Accident Fund levy,” the National Treasury’s 2024 Budget Review document says.</p>
+
+<p>It says this will result in tax relief of around R4 billion for South African motorists.</p>
+
+<p>The retail margin on South Africa’s fuel prices has also increased significantly, growing from R0.65 per litre in 2008/09 to R2.33 per litre in 2022/23. This represents an increase of nearly 260% over 15 years.</p>
+
+<p>The chart below tracks the inland price of unleaded 95 per litre in South Africa to the crude oil price per litre from January 2008 to July 2024.</p>
+
+<p>Crude oil prices were converted to rands using the dollar-rand exchange rate at the time.</p>
+
 
 <img src="../pages/news/news-images copy/aviation/tp-nws0.1.jpg" alt="Story image">
 
-<h2>FUEL PRICE IN SOUTH AFRICA IMPACTED BY TWO MAIN FACTORS:</h2>
-<p>1. The international price of petroleum products, driven mainly by oil prices</p>
+<p>President Cyril Ramaphosa recently announced the government’s intentions to review South Africa’s fuel price formula, but eliminating or reducing the GFL tax will remove a substantial portion of the country’s annual revenue.</p>
 
-<p style="font-weight:bold;">Oil price</p>
+<p>Director and chief economist at Econometrix, Dr Azar Jammine, recently said the government will look to recover the costs elsewhere.</p>
 
-<p>At the time of publishing the brent crude oil price is $85.10 a barrel.</p>
+<p>“I think one should see the statement as one of a series of statements issued to try and appease consumers who are really feeling cash-strapped in the face of high interest rates and the high inflation that has prevailed for several years,” said Jammine.</p>
 
-<p style="font-weight:bold;">Exchange rate</p>
+<p>“It’s very easy to bring down the fuel price by doing away with the fuel levy, but then the government would sacrifice about 5% of its annual revenue.”</p>
 
-<p>At the time of publishing the rand/dollar exchange rate is R18.35/$.</p>
+<p>He said the government will be forced to look at other income streams, such as income tax, to make up the difference.</p>
 
+<p>“I don’t know that people would necessarily be prepared to pay higher income tax in order to fund lower fuel prices. That would be a case of robbing Peter to pay Paul,” Jammine stated.</p>
 
-<p>The final overall price changes for both petrol and diesel will be confirmed in the weeks ahead with the new prices coming into effect at midnight on Tuesday, 6 August.</p>
-<p></p>
+<p>Many South Africans may be unaware that the GFL levy isn’t ring-fenced to maintain the country’s 750,000km road network. Like various other taxes, it goes into the fiscus.</p>
+<div>
+    <img src="../pages/news/news-images copy/aviation/tp-nws7.jpg" alt="Story image">
+    <span style="font-size:small">Sponsored</span>
+</div>
+<p>“I think motorists would be very happy to pay more for fuel if they knew that the funds were really being used to upgrade the roads and to prevent potholes and make it easier to commute,” said Jammine.</p>
 
-
-<p></p>
-
-<p></p>
-
-
-<p></p>
+<p>“The fact is that the fuel levy is not ring-fenced, and it forms part of the overall revenue take. That has been the case since it was introduced.”</p>
 
