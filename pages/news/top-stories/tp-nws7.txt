@@ -1,45 +1,106 @@
-<h1>Some home appliances can use as much energy as electric vehicles</h1>
+<h1>Suzuki’s one-star disaster in South Africa</h1>
 <img src="../pages/news/news-images copy/aviation/tp-nws6.jpg" alt="Story image">
 
-<p>The most popular electric vehicles can use about as much electricity as some home appliances. Here’s how appliances and EVs compare.</p>
+<p>The Global New Car Assessment Programme (GNCAP) has given the South African version of the Suzuki Ertiga a one-star safety rating, but the automobile company has questioned the results.</p>
 
-<p>Some home appliances use a similar amount of electricity to electric vehicles, but it depends on the appliance and vehicle. Some use less, and some use more. </p>
+<p>GNCAP’s crash tech protocols assess frontal and side impact protection for all models, as well as Electronic Stability Control (ESC).</p>
 
-<p>The electricity requirements of both electric cars and home appliances vary based on the efficiency of the models you own, as well as how often you use them. 
+<p>However, in the latest #SaferCarsforAfrica testing, all three South African cars that were tested registered incredibly low safety scores.</p>
 
-We’ll show you what we mean by comparing several electric vehicles to several different appliances, including multiple models of the same type of appliance, based on how much an average home uses them in a year.</p>
+<p>The cars tested were:</p>
+
+<ul>
+    <li><b>Maruti Suzuki Ertiga</b> (2 airbags standard)</li>
+    <li><b>Kia Pegas</b> (2 airbags standard)</li>
+    <li><b>Renault Triber</b> (2 airbags standard)</li>
+</ul>
+
+<p>“We are disappointed to see global brands like Renault, Kia and Maruti Suzuki offer such a low safety performance in markets like South Africa whilst achieving much higher levels of protection in many other global markets,” said Alejandro Furas, Global NCAP Secretary General.</p>
+
+<p>“We remain concerned at the low ratings received from the manufacturers, but we are confident they will use these results to improve their safety moving forward,” added Sikkie Kajee, Chairman of the Automobile Association.</p>
+
+<p>“Issues with double standards persist regarding vehicles made for Africa, but again, we are assured these matters are being addressed and are confident that in the future, we will see fewer discrepancies than we currently do.”</p>
+
+<h3>The ratings</h3>
+
+<p>The India-made Ertiga’s structure was rated as borderline unstable.</p>
+
+<p>Its footwell area was rated as unstable and pedal displacement showed injury risks to the lower legs of the driver.</p>
+
+<p>That said, the head and neck protection for adults was good, while the chest protection for the passenger was good, even if the driver’s chest protection only received marginal protection.</p>
+
+<div>
+    <img src="../pages/news/news-images copy/aviation/tp-nws7.jpg" alt="Story image">
+    <span style="font-size:small">Sponsored</span>
+</div>
+
+<p>Side impact protection showed good protection for the head, pelvis and abdomen, while there was adequate protection for the chest.</p>
+
+<p>Global NCAP said that Ertiga does not even offer side airbags as an option. In addition, the passenger pretensioner failed to work properly.</p>
+
+<p>Child occupant protection was poor for the 18-month-old dummy used in the test.</p>
+
+<p>The Child Restraint System (CRS) was also installed in the forward-facing position, whilst best practice indicates a rearward-facing position offers better protection for this age group.</p>
+
+<p>Side impact child protection, however, was good.</p>
+
+<p>“The Ertiga only offers a lap belt in the rear centre position which explains the significant points loss in child occupant protection,” said Global NCAP.</p>
+
+<p>“The passenger airbag cannot be disconnected if a rearward-facing CRS is installed in the front seat. The Ertiga offers standard ISOFIX anchorages.”</p>
+
+<h3>Suzuki hits back at report</h3>
+
+<p>In response to the report, Suzuki has raised several vital concerns about the testing.</p>
+
+<p>It noted that the Ertiga in the test is from 2019 and is an older generation model that does not have any of the safety upgrades that Suzuki has since added.</p>
+
+<div>
+    <img src="../pages/news/news-images copy/aviation/tp-nws7.jpg" alt="Story image">
+    <span style="font-size:small">Sponsored</span>
+</div>
+
+<p>In addition, the group claims that the Ertiga tested was built for Indian customer specifications for the Indian market and was never for sale in South Africa.</p>
+
+<p>Suzuki said that the images and videos show the same unique vehicle identifier (OD2119MER1) in the videos for both the #SaferCarsForIndia 2019 and #SaferCarsForAfrica 2024 tests, meaning the 2024 test was not reflective of 2024 standards.</p>
+
+<p>Both videos, which can be found below, are also identical.</p>
+
+<div>
+    <iframe width="459" height="258" src="https://www.youtube.com/embed/5LaxnFBHULo?list=UUm54wSSsq3lkMmyJAyBTycQ" title="Only one star for the Maruti Suzuki Ertiga" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <span>2024 South African Version</span>
+</div>
+
+<div>
+    <iframe width="459" height="258" style="margin-top:30px;" src="https://www.youtube.com/embed/sszFZShWsJI" title="The Suzuki Ertiga achieves a three star rating" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <span>2019 Indian Version</span>
+</div>
+
+<p>Suzuki added that the testing protocols used by the GNCAP have changed significantly in the last five years, with the most recent protocols published in 2022.</p>
+
+<p>With the GNCAP changes, the Ertiga tested in 2019 received a three-star safety rating for driver and passenger safety. The same information was then considered only worthy of a one-star rating in the recent report without retesting.</p>
+
+<p>“By only referring to the year 2024, the report’s authors—perhaps inadvertently—create the impression that all tests were conducted recently and with the same model.”</p>
+
+<div>
+    <img src="../pages/news/news-images copy/aviation/tp-nws7.jpg" alt="Story image">
+    <span style="font-size:small">Sponsored</span>
+</div>
+
+<p>“It is highly possible that the quality and sensitivity of vehicle testing equipment, including the crash test dummies, have improved significantly over the past five years,” said Suzuki.</p>
+
+<p>“The child restraints used in the two tests are not the same, which may further support the assumption that the dummies used in the two tests were different and the data collected from them incomparable.”</p>
+
+<p>Suzuki also questioned how the Ertiga had the highest side impact rating of all the vehicles tested, yet the overall score received was the lowest.</p>
+
+<p>Other results for the #SaferCarsforAfrica testing can be found:</p>
 <img src="../pages/news/news-images copy/aviation/tp-nws6.1.jpg" alt="Story image">
-<p>According to fueleconomy.gov, which is run by the U.S. Department of Energy and the Environmental Protection Agency (EPA), new electric cars use between 0.24 kWh (kilowatt hours, a measure of electricity consumption) per mile and 0.53 kWh per mile. </p>
 
-<p>The Federal Highway Administration said the average driver traveled 14,263 miles in 2019. So if you were to drive as much as the average person, and you fully charge your car at home throughout the year, you’d use between 3,423 kWh and 7,559 kWh to charge a new electric vehicle.
+<div>
+    <iframe width="459" height="258" src="https://www.youtube.com/embed/Ca6A4jd6Sno" title="Renault Triber reveals disappointing two stars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
-</p>
+<div>
+    <iframe width="459" height="258" src="https://www.youtube.com/embed/ZT85dFtLo5o" title="Disappointing two stars for the Kia Pegas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
-<p>Tesla Model 3: 3,566 kWh at 0.25 kWh per mile<br>
-Chevrolet Bolt: 3,994 kWh at 0.28 kWh per mile<br>
-Tesla Model Y: 3,994 kWh at 0.28 kWh per mile<br>
-Nissan Leaf: 4,279 kWh at 0.30 kWh per mile<br>
-Ford Mustang Mach-E: 5,135 kWh at 0.36 kWh per mile<br>
-Ford F-150 Lightning: 7,274 kWh at 0.51 kWh per mile</p>
 
-<p>The two most electricity-demanding appliances in the average American household are water heaters and electric furnaces, according to the U.S. Energy Information Administration’s 2015 Residential Energy Consumption Survey. The average home uses a little more than 3,000 kWh of electricity each year on heating the air, and another 3,000 kWh on heating water, meaning an electric car would require at least a little more electricity than it takes to run each of these appliances in the average U.S. home.</p>
-
-<p>But one reason why this claim needs context is because not all appliances are created equal. There are some appliances that use more electricity than many electric vehicles. 
-
-EnergySage, a renewable energy marketplace funded by the U.S. Department of Energy, says that the most common electric furnace uses about 3,163 kWh of electricity in a year. But EnergySage also notes there are electric furnaces powerful enough to consume 4,745 kWh of electricity in a year.</p>
-
-<p>When it comes to water heaters, the average model typically requires a little less electricity than the most common electric vehicles, but some water heaters require much less electricity. One Rheem water heater uses about 3,531 kWh of electricity in a year, according to the product’s EnergyGuide tag, a label required on many appliances by the federal government. A high-efficiency Rheem water heater, on the other hand, uses 1,219 kWh annually, according to its EnergyGuide tag.</p>
-
-<p>Air conditioning units also vary by size. For example, a typical 1.5 ton central A/C unit, the smallest size available for most product lines, uses about 1,485 kWh over the course of a year. However, a 5 ton A/C unit, the largest size in most residential product lines, typically uses 4,950 kWh of electricity in a year, according to PickHVAC, an online buying guide for heating and cooling systems.
-
-Many other appliances use far less electricity.  New fridges use a few hundred kWh a year, while 25-year-old refrigerators use 1,031 kWh of electricity annually, according to Sense, a company that makes home energy consumption monitors.</p>
-
-<p>. EnergySage says the typical washing machine uses no more than 220 kWh each year, and the average dishwasher will probably use about 300 kWh or less each year</p>
-
-<p></p>
-
-<p></p>
-
-<script async="async" data-cfasync="false" src="//pl23826599.highrevenuenetwork.com/819a981e3f6fc0035ee139834673b232/invoke.js"></script>
-    <div id="container-819a981e3f6fc0035ee139834673b232" style="z-index:0;"></div>
-    <script type="text/javascript" src="//identicaldrench.com/7b8644849ba33b7b35912797996f1bf9/invoke.js"></script>
