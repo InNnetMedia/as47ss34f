@@ -43,6 +43,17 @@ p{
     margin-left:10px;
 
 }
+
+
+.video-container1{
+    width:90%;
+    height:300px;
+    max-width: 340px;
+    background-color:white;
+    margin-top:165px;
+    margin-bottom:20px;
+}
+
 @media (max-width:900px){
     .news-read-container{
         width:100%;

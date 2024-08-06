@@ -8,12 +8,14 @@
 <p>However, in the latest #SaferCarsforAfrica testing, all three South African cars that were tested registered incredibly low safety scores.</p>
 
 <p>The cars tested were:</p>
+<p>
+    <ul>
+        <li><b>Maruti Suzuki Ertiga</b> (2 airbags standard)</li>
+        <li><b>Kia Pegas</b> (2 airbags standard)</li>
+        <li><b>Renault Triber</b> (2 airbags standard)</li>
+    </ul>
+</p>
 
-<ul>
-    <li><b>Maruti Suzuki Ertiga</b> (2 airbags standard)</li>
-    <li><b>Kia Pegas</b> (2 airbags standard)</li>
-    <li><b>Renault Triber</b> (2 airbags standard)</li>
-</ul>
 
 <p>“We are disappointed to see global brands like Renault, Kia and Maruti Suzuki offer such a low safety performance in markets like South Africa whilst achieving much higher levels of protection in many other global markets,” said Alejandro Furas, Global NCAP Secretary General.</p>
 
@@ -21,7 +23,7 @@
 
 <p>“Issues with double standards persist regarding vehicles made for Africa, but again, we are assured these matters are being addressed and are confident that in the future, we will see fewer discrepancies than we currently do.”</p>
 
-<h3>The ratings</h3>
+<h3 style="margin-right:20px;">The ratings</h3>
 
 <p>The India-made Ertiga’s structure was rated as borderline unstable.</p>
 
@@ -65,13 +67,13 @@
 
 <p>Both videos, which can be found below, are also identical.</p>
 
-<div>
-    <iframe width="459" height="258" src="https://www.youtube.com/embed/5LaxnFBHULo?list=UUm54wSSsq3lkMmyJAyBTycQ" title="Only one star for the Maruti Suzuki Ertiga" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container1">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/5LaxnFBHULo?list=UUm54wSSsq3lkMmyJAyBTycQ" title="Only one star for the Maruti Suzuki Ertiga" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <span>2024 South African Version</span>
 </div>
 
-<div>
-    <iframe width="459" height="258" style="margin-top:30px;" src="https://www.youtube.com/embed/sszFZShWsJI" title="The Suzuki Ertiga achieves a three star rating" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container1">
+    <iframe width="100%" height="100%" style="margin-top:30px;" src="https://www.youtube.com/embed/sszFZShWsJI" title="The Suzuki Ertiga achieves a three star rating" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <span>2019 Indian Version</span>
 </div>
 
@@ -95,12 +97,12 @@
 <p>Other results for the #SaferCarsforAfrica testing can be found:</p>
 <img src="../pages/news/news-images copy/aviation/tp-nws6.1.jpg" alt="Story image">
 
-<div>
-    <iframe width="459" height="258" src="https://www.youtube.com/embed/Ca6A4jd6Sno" title="Renault Triber reveals disappointing two stars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container1">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Ca6A4jd6Sno" title="Renault Triber reveals disappointing two stars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<div>
-    <iframe width="459" height="258" src="https://www.youtube.com/embed/ZT85dFtLo5o" title="Disappointing two stars for the Kia Pegas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container1">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ZT85dFtLo5o" title="Disappointing two stars for the Kia Pegas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
