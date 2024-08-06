@@ -124,11 +124,11 @@ const h_fuelPrice = document.getElementById('fuelPrice');
 const h_fuelType = document.getElementById('fuelType');
 
 const fuelPricing = {
-    petrolType:['Un 93','Un 95', 'LPR 93', 'LPR 95'],
-    petrolPrice:[22.86, 23.26, 22.86, 22.47],
+    petrolType:['Un 93','Un 95', 'LRP 93', 'LRP 95'],
+    petrolPrice:[22.71, 23.11, 22.71, 22.32],
 
     dieselType:['ppm50', 'ppm500', 'ppm50','ppm500'],
-    dieselPrice:[20.91, 19.87, 20.15, 19.87]
+    dieselPrice:[20.63, 19.70, 19.87, 19.59]
 }
 console.log("Index of Unleaded 95 is "+fuelPricing.petrolType.indexOf('Un 95'));
 function h_priceDisplay(){

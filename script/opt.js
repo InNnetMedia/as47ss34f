@@ -114,19 +114,19 @@ function detailedFuelInfo(){
         <h3>SA Fuel Prices ${date.getDate()}/${date.getMonth()+1}/${date.getFullYear()}</h3>
         <div>
             <span class="title"><img src="web-icons/fuel-review-dark/icons8-inland-100.png" id="icon-inland">Inland</span>
-            <span>Unleaded 93: R 22.86</span>
-            <span>Unleaded 95: R 23.26</span>
-            <span>LPR 93: R 22.86</span>
-            <span>50 PPM(0.005%): R 20.91</span>
-            <span>500 PPM(0.05%): R 19.87</span>
+            <span>Unleaded 93: R 22.71</span>
+            <span>Unleaded 95: R 23.11</span>
+            <span>LRP 93: R 22.71</span>
+            <span>50 PPM(0.005%): R 20.74</span>
+            <span>500 PPM(0.05%): R 19.59</span>
         </div>
         <div>
             <span class="title"><img src="web-icons/fuel-review-dark/icons8-coastal-100.png" id="icon-coast">Coast</span>
-            <span>Unleaded 93: R 22.07</span>
-            <span>Unleaded 95: R 22.47</span>
-            <span>LRP 95: R 22.47</span>
-            <span>50 PPM(0.005%): R 20.15</span>
-            <span>500 PPM(0.05%): R 19.87</span>
+            <span>Unleaded 93: R 21.92</span>
+            <span>Unleaded 95: R 22.32</span>
+            <span>LRP 95: R 22.32</span>
+            <span>50 PPM(0.005%): R 19.98</span>
+            <span>500 PPM(0.05%): R 19.59</span>
         </div>
         
     `
